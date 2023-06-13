@@ -1,0 +1,73 @@
+<html>
+<head>
+	<title>Resep Makanan</title>
+</head>
+<body>
+
+<h1>Membuat Camilan Sore</h1>
+<p>Disaat santai sore enaknya ditemani dengan camilan, nah untuk itu mari membuat camilan. Kali ini camilan yang akan dibuat yaitu Bakwan</p>
+<body>
+	<h2>Resep Bakwan</h2>
+	<table>
+		<tr>
+			<th>Bahan-bahan</th>
+			<th>Jumlah</th>
+		</tr>
+		<tr>
+			<td>Tepung</td>
+			<td>300 gram</td>
+		</tr>
+    <tr>
+			<td>Wortel</td>
+			<td>2 buah</td>
+		</tr>
+    <tr>
+			<td>kol</td>
+			<td>90 gram</td>
+		</tr>
+		<tr>
+			<td>Telur</td>
+			<td>1 butir</td>
+		</tr>
+		<tr>
+			<td>Bawang putih</td>
+			<td>3 siung</td>
+		</tr>
+		<tr>
+			<td>Bawang merah</td>
+			<td>4 siung</td>
+		</tr>
+		<tr>
+			<td>Cabe merah</td>
+			<td>5 buah</td>
+		</tr>
+		<tr>
+			<td>Merica</td>
+			<td>Secukupnya</td>
+		</tr>
+		<tr>
+			<td>Garam</td>
+			<td>secukupnya</td>
+		</tr>
+    <tr>
+			<td>Daun bawang</td>
+			<td>1 Batang</td>
+		</tr>
+		<tr>
+			<td>Minyak goreng</td>
+			<td>300 ml</td>
+		</tr>
+	</table>
+  <h2>Cara membuat</h2>
+  <p>Wortol di potong kecil memanjang sepeti korek api, kol di iris tipis, dan daun bawang juga di iris tipis. Bawang merah, bawang putih, dan juga cabai merah di blender untuk menjadi bumbunya.</p>
+  <p>setelah semua bahan telah selesai di potong sampurkan semua bahan bahan yang ada kecuali minyak, karena minyaknya akan di pakai untuk menggoreng bakwannya. adon semua bahan hingga tercampur semua</p>
+  <p>selagi mengadon bahan bahannya, panaskan minyaknya. setelah minyak panas kita dapat langsung menggoreng adonan bakwan yang telah jadi, lakukan hingga seluruh bahan habis</p>
+  <p>setelah semua selesai, bakwan pun dapat menjadi camilan sore sembari bersantai</p>
+  
+  <h1>Tutorial membuat bakwan</h1>
+   <video width="440" controls>   
+    <source src="Cara Membuat Bakwan.mp4" type="video/mp4"/>
+     <p>Selamat Mencoba</p>
+   </video>
+</body>
+</html>
